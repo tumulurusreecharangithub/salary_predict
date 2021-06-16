@@ -1,2 +1,1 @@
-# salary_predict
-salry prediction rep
+# Heroku-Demo
